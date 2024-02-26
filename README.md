@@ -1,4 +1,3 @@
-# Ziyad.k
 <v></v> <h1 align="center"> Hi There My Names Ziyad! I Am An Aspiring Data Analyst 👋 </h1> </div> 
  
 
