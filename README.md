@@ -5,7 +5,7 @@
 
 <p></p> 
 
-<div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div> 
+# <div align="center">  <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div> 
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div> 
+#### <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div> 
 
  
 
